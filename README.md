@@ -51,6 +51,7 @@ python -m src.experiments.exp_DeepLearning
 | [Kernel]() | Main folder.
 | &boxvr;&nbsp; [data]() | data folder.
 | &boxvr;&nbsp; [fit]() | Folder to store the processing data.
+| &boxvr;&nbsp; [fit1]() | 2nd Folder to store the processing data.
 | &boxvr;&nbsp; [results]() | Store the results of the classification and some figures.
 | &boxvr;&nbsp; [src]() | the main source codes.
 | &boxv;&nbsp; &boxvr;&nbsp; [lib]() | library.
